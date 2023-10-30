@@ -30,17 +30,24 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Papers
 
 ### Survey
-- Explainable medical imaging AI needs human-centered design: guidelines and evidence from a systematic review
-  [[pdf]](https://www.nature.com/articles/s41746-022-00699-2)
-  - Haomin Chen, Catalina Gomez, Chien-Ming Huang & Mathias Unberath. *npj Digital Medicine 2022*
-  
-- Explainability for artificial intelligence in healthcare: a multidisciplinary perspective
-  [[pdf]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01332-6)
-  - Julia Amann, Alessandro Blasimme, Effy Vayena, Dietmar Frey, Vince I. Madai. *BMC Medical Informatics and Decision Making 2020*
-  
+
+**2023**
 - Explainable AI in medical imaging: An overview for clinical practitioners – Saliency-based XAI approaches
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0720048X23001018)
   - Katarzyna Borys, Yasmin Alyssa Schmitt, Meike Nauta, Christin Seifert, Nicole Krämer, Christoph M. Friedrich, Felix Nensa. *European Journal of Radiology 2023*
+
+- Survey of Explainable AI Techniques in Healthcare
+  [[pdf]](https://www.mdpi.com/1424-8220/23/2/634)
+  - Ahmad Chaddad, Jihao Peng,Jian Xu, and Ahmed Bouridane. *Sensors 2023*
+ 
+- Explainable Deep Learning Methods in Medical Image Classification: A Survey
+  [[pdf]](https://arxiv.org/abs/2205.04766)
+  - Cristiano Patrício, João C. Neves, Luís F. Teixeira. *ACM Computing Surveys 2023*
+
+**2022**
+- Explainable medical imaging AI needs human-centered design: guidelines and evidence from a systematic review
+  [[pdf]](https://www.nature.com/articles/s41746-022-00699-2)
+  - Haomin Chen, Catalina Gomez, Chien-Ming Huang & Mathias Unberath. *npj Digital Medicine 2022*
 
 - Explainable artificial intelligence (XAI) in deep learning-based medical image analysis
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841522001177)
@@ -50,17 +57,24 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.mdpi.com/1424-8220/22/20/8068)
   - Ruey-Kai Sheu and Mayuresh Sunil Pardeshi. *Sensors 2022*
 
-- Survey of Explainable AI Techniques in Healthcare
-  [[pdf]](https://www.mdpi.com/1424-8220/23/2/634)
-  - Ahmad Chaddad, Jihao Peng,Jian Xu, and Ahmed Bouridane. *Sensors 2023*
+- Explainability and artificial intelligence in medicine
+  [[pdf]](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00029-2/fulltext)
+  - Sandeep Reddy. *The Lancet Digital Health 2022*
 
-- Explainable Deep Learning Methods in Medical Image Classification: A Survey
-  [[pdf]](https://arxiv.org/abs/2205.04766)
-  - Cristiano Patrício, João C. Neves, Luís F. Teixeira. *ACM Computing Surveys 2023*
+**2020**
+- A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI
+  [[pdf]](https://arxiv.org/abs/1907.07374)
+  - Erico Tjoa, Cuntai Guan. *TNNLS 2020*
 
+- Explainability for artificial intelligence in healthcare: a multidisciplinary perspective
+  [[pdf]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01332-6)
+  - Julia Amann, Alessandro Blasimme, Effy Vayena, Dietmar Frey, Vince I. Madai. *BMC Medical Informatics and Decision Making 2020*
+  
 - Explainable Deep Learning Models in Medical Image Analysis
   [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8321083/)
   - Amitojdeep Singh, Sourya Sengupta, and Vasudevan Lakshminarayanan. *J Imaging 2020*
+
+
 
 
 
