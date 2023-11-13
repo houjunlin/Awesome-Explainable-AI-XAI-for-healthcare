@@ -49,6 +49,10 @@ Related Repo:
   - Cristiano Patrício, João C. Neves, Luís F. Teixeira. *ACM Computing Surveys 2023*
 
 **2022**
+- Unbox the black-box for the medical explainable AI via multi-modal and multi-centre data fusion: A mini-review, two showcases and beyond
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1566253521001597)
+  - Guang Yang, Qinghao Ye, Jun Xia. *Information Fusion 2022*
+
 - Explainable medical imaging AI needs human-centered design: guidelines and evidence from a systematic review
   [[pdf]](https://www.nature.com/articles/s41746-022-00699-2)
   - Haomin Chen, Catalina Gomez, Chien-Ming Huang & Mathias Unberath. *npj Digital Medicine 2022*
