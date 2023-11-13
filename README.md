@@ -36,6 +36,10 @@ Related Repo:
 ### Survey
 
 **2023**
+- Guidelines and evaluation of clinical explainable AI in medical image analysis
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841522003127)
+  - Weina Jin, Xiaoxiao Li, Mostafa Fatehi, Ghassan Hamarneh. *Medical Image Analysis 2023*
+   
 - Explainable AI in medical imaging: An overview for clinical practitioners – Saliency-based XAI approaches
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0720048X23001018)
   - Katarzyna Borys, Yasmin Alyssa Schmitt, Meike Nauta, Christin Seifert, Nicole Krämer, Christoph M. Friedrich, Felix Nensa. *European Journal of Radiology 2023*
