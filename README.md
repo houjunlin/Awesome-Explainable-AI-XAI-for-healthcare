@@ -91,7 +91,7 @@ Related Repo:
   
 - Explainable Deep Learning Models in Medical Image Analysis
   [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8321083/)
-  - Amitojdeep Singh, Sourya Sengupta, and Vasudevan Lakshminarayanan. *J Imaging 2020*
+  - Amitojdeep Singh, Sourya Sengupta, and Vasudevan Lakshminarayanan. *Journal of Imaging 2020*
 
 
 
