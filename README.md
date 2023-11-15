@@ -36,6 +36,11 @@ Related Repo:
 ### Survey
 
 **2023**
+
+- Explainable Deep Learning Methods in Medical Image Classification: A Survey
+  [[pdf]](https://arxiv.org/abs/2205.04766)
+  - Cristiano Patrício, João C. Neves, Luís F. Teixeira. *ACM Computing Surveys 2023*
+
 - Guidelines and evaluation of clinical explainable AI in medical image analysis
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841522003127)
   - Weina Jin, Xiaoxiao Li, Mostafa Fatehi, Ghassan Hamarneh. *Medical Image Analysis 2023*
@@ -48,9 +53,7 @@ Related Repo:
   [[pdf]](https://www.mdpi.com/1424-8220/23/2/634)
   - Ahmad Chaddad, Jihao Peng,Jian Xu, and Ahmed Bouridane. *Sensors 2023*
  
-- Explainable Deep Learning Methods in Medical Image Classification: A Survey
-  [[pdf]](https://arxiv.org/abs/2205.04766)
-  - Cristiano Patrício, João C. Neves, Luís F. Teixeira. *ACM Computing Surveys 2023*
+
 
 **2022**
 - Transparency of deep neural networks for medical image analysis: A review of interpretability methods
