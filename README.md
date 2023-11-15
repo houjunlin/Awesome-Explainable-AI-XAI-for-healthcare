@@ -51,14 +51,14 @@ Related Repo:
 
 - Survey of Explainable AI Techniques in Healthcare
   [[pdf]](https://www.mdpi.com/1424-8220/23/2/634)
-  - Ahmad Chaddad, Jihao Peng,Jian Xu, and Ahmed Bouridane. *Sensors 2023*
+  - Ahmad Chaddad, Jihao Peng, Jian Xu, and Ahmed Bouridane. *Sensors 2023*
  
 
 
 **2022**
 - Transparency of deep neural networks for medical image analysis: A review of interpretability methods
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0010482521009057)
-  Zohaib Salahuddin, Henry C. Woodruff, Avishek Chatterjee, Philippe Lambin. *CIBM 2022*
+  - Zohaib Salahuddin, Henry C. Woodruff, Avishek Chatterjee, Philippe Lambin. *CIBM 2022*
   
 - Unbox the black-box for the medical explainable AI via multi-modal and multi-centre data fusion: A mini-review, two showcases and beyond
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1566253521001597)
