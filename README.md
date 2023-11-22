@@ -97,7 +97,10 @@ Related Repo:
   [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8321083/)
   - Amitojdeep Singh, Sourya Sengupta, and Vasudevan Lakshminarayanan. *Journal of Imaging 2020*
 
-
+**2019**
+- Techniques for interpretable machine learning
+  [[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3359786)
+  Mengnan Du, Ninghao Liu, Xia Hu. *Communications of the ACM*
 
 
 
