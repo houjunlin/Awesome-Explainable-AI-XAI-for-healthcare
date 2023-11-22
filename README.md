@@ -83,7 +83,11 @@ Related Repo:
 - Towards Fully Interpretable Deep Neural Networks: Are We There Yet?
   [[pdf]](https://arxiv.org/abs/2106.13164)
   - Sandareka Wickramanayake, Wynne Hsu, Mong Li Lee. *ICML 2021 Workshop*
- 
+
+- A Survey on Neural Network Interpretability
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9521221)
+  - Yu Zhang; Peter Tiňo; Aleš Leonardis; Ke Tang. *TETCI 2021*
+    
 **2020**
 - A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI
   [[pdf]](https://arxiv.org/abs/1907.07374)
@@ -100,7 +104,7 @@ Related Repo:
 **2019**
 - Techniques for interpretable machine learning
   [[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3359786)
-  Mengnan Du, Ninghao Liu, Xia Hu. *Communications of the ACM*
+  - Mengnan Du, Ninghao Liu, Xia Hu. *Communications of the ACM*
 
 
 
