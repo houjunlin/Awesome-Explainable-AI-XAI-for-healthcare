@@ -80,14 +80,8 @@ Related Repo:
   [[pdf]](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00029-2/fulltext)
   - Sandeep Reddy. *The Lancet Digital Health 2022*
 
-- Towards Fully Interpretable Deep Neural Networks: Are We There Yet?
-  [[pdf]](https://arxiv.org/abs/2106.13164)
-  - Sandareka Wickramanayake, Wynne Hsu, Mong Li Lee. *ICML 2021 Workshop*
 
-- A Survey on Neural Network Interpretability
-  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9521221)
-  - Yu Zhang; Peter Tiňo; Aleš Leonardis; Ke Tang. *TETCI 2021*
-    
+
 **2020**
 - A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI
   [[pdf]](https://arxiv.org/abs/1907.07374)
@@ -101,10 +95,26 @@ Related Repo:
   [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8321083/)
   - Amitojdeep Singh, Sourya Sengupta, and Vasudevan Lakshminarayanan. *Journal of Imaging 2020*
 
+
+
+
+### Ante-hoc Ref
+
+**2023**
+- Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1566253523001148)
+  - Sajid Ali, Tamer Abuhmed, Shaker El-Sappagh, Khan Muhammad, Jose M. Alonso-Moral, Roberto Confalonieri, Riccardo Guidotti, Javier Del Ser, Natalia Díaz-Rodríguez, Francisco Herrera. *Information Fusion 2023*
+
+**2021**
+- A Survey on Neural Network Interpretability
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9521221)
+  - Yu Zhang; Peter Tiňo; Aleš Leonardis; Ke Tang. *TETCI 2021*
+
+- Towards Fully Interpretable Deep Neural Networks: Are We There Yet?
+  [[pdf]](https://arxiv.org/abs/2106.13164)
+  - Sandareka Wickramanayake, Wynne Hsu, Mong Li Lee. *ICML 2021 Workshop*
+
 **2019**
 - Techniques for interpretable machine learning
   [[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3359786)
   - Mengnan Du, Ninghao Liu, Xia Hu. *Communications of the ACM*
-
-
-
