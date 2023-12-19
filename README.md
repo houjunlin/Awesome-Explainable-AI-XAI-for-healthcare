@@ -37,7 +37,7 @@ Related Repo:
 
 **2023**
 
-- Explainable Deep Learning Methods in Medical Image Classification: A Survey
+- **Explainable Deep Learning Methods in Medical Image Classification: A Survey**
   [[pdf]](https://arxiv.org/abs/2205.04766)
   - Cristiano Patrício, João C. Neves, Luís F. Teixeira. *ACM Computing Surveys 2023*
 
@@ -56,7 +56,7 @@ Related Repo:
 
 
 **2022**
-- Transparency of deep neural networks for medical image analysis: A review of interpretability methods
+- **Transparency of deep neural networks for medical image analysis: A review of interpretability methods**
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0010482521009057)
   - Zohaib Salahuddin, Henry C. Woodruff, Avishek Chatterjee, Philippe Lambin. *CIBM 2022*
   
@@ -68,7 +68,7 @@ Related Repo:
   [[pdf]](https://www.nature.com/articles/s41746-022-00699-2)
   - Haomin Chen, Catalina Gomez, Chien-Ming Huang & Mathias Unberath. *npj Digital Medicine 2022*
 
-- Explainable artificial intelligence (XAI) in deep learning-based medical image analysis
+- **Explainable artificial intelligence (XAI) in deep learning-based medical image analysis**
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841522001177)
   - Bas H.M. van der Velden, Hugo J. Kuijf, Kenneth G.A. Gilhuijs, Max A. Viergever. *Medical Image Analysis 2022*
 
@@ -101,7 +101,7 @@ Related Repo:
 ### Ante-hoc Ref
 
 **2023**
-- Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence
+- **Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence**
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1566253523001148)
   - Sajid Ali, Tamer Abuhmed, Shaker El-Sappagh, Khan Muhammad, Jose M. Alonso-Moral, Roberto Confalonieri, Riccardo Guidotti, Javier Del Ser, Natalia Díaz-Rodríguez, Francisco Herrera. *Information Fusion 2023*
 
